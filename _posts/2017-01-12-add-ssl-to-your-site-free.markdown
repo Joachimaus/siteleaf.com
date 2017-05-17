@@ -1,12 +1,20 @@
 ---
 title: Add SSL to your site for free
-date: 2017-01-12 10:00:00 -05:00
+date: '2017-01-12T15:00:00.000+00:00'
 tags:
 - tip
 image: "/uploads/https.png"
 description: It's never been easier to jump aboard the HTTPS train and secure your
   site's traffic. We'll review our favorite options in this blog post, including CloudFront,
-  Cloudflare, and Let's Encrypt.
+  Cloudflare, and Let's Encrypt. TEST
+hero: ''
+Docs: []
+vimeo: ''
+button:
+  title: ''
+  url: ''
+permalink: "/blog/:title/"
+layout: post
 ---
 
 ![Add SSL to your site free](/uploads/https.svg)
